@@ -1,6 +1,5 @@
 import { Router } from "preact-router";
 
-// Code-splitting is automated for `routes` directory
 import Home from "../routes/home";
 
 const App = () => (
